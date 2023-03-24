@@ -1,5 +1,5 @@
 import './App.css';
-import './progress-bar';
+import './components/ProgressBar';
 
 // declare global {
 //   namespace JSX {
