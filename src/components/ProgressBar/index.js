@@ -89,5 +89,4 @@ class ProgressBar extends HTMLElement {
   }
 }
 
-// customElements.define('progress-bar', ProgressBar);
 if (!customElements.get('progress-bar')) customElements.define('progress-bar', ProgressBar);
